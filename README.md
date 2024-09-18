@@ -8,4 +8,4 @@ color in the ColorScheme.
 
 ## Implemented UI
 
-<img src="" alt="User interface" width="300">
+<img src="implemented_ui.png" alt="User interface" width="300">
